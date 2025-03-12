@@ -16,7 +16,7 @@ In our busy lives, sleep is often one of the first things to be compromised. But
 
 > Stress and mood can often feel directly tied to how well we sleep. However, the data here paints a different picture. Individuals across varying stress levels and mood scores all seemed to have similar sleep patterns, with little evidence that poor sleep was correlated with high stress or low mood. It’s possible that other factors, like coping mechanisms or mental health conditions, could be influencing these results more than sleep itself.
 
-***NOTE:*** For a deeper dive into the analyses I performed and methodology, please check out the Jupyter notebook.
+***NOTE:*** For a deeper dive into the analyses I performed and methodology, please check out the Google Colab notebook [here](https://colab.research.google.com/github/kthuang20/sleep_cycle_productivity/blob/main/Exploratory_Analysis_of_Sleep_Cycle_and_Productivity.ipynb).
 
 ## Conclusion
 This project sheds light on the complexities of sleep habits and their potential impacts on productivity, mood, and stress levels. While sleep duration and quality are important, they may not be the sole determinants of our daily performance and well-being. Other factors, such as personal resilience, mental health, and external circumstances, could play a significant role. Further research with a broader range of factors may be necessary to fully understand the nuances of sleep and its impact on our lives.
